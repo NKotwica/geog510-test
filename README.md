@@ -2,7 +2,7 @@
 Lab 1
 ## Top 10 Teams in the NFL
 My opinion on the top 10 teams in the NFL.
-1. Steelers
+1. _Steelers_
 2. Eagles
 3. Chiefs
 4. Bills
@@ -15,4 +15,8 @@ My opinion on the top 10 teams in the NFL.
 
 [ESPN Rankings](https://www.espn.com/nfl/standings/_/group/league)
 
-"C:\Users\natha\.local\geog510-test\NFL-logo.jpg"
+![NFL Logo](C:\Users\natha\.local\geog510-test\NFL-logo.jpg)
+
+***python
+print("Favorite team in italics")
+***
