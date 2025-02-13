@@ -14,3 +14,5 @@ My opinion on the top 10 teams in the NFL.
 10. Vikings
 
 [ESPN Rankings](https://www.espn.com/nfl/standings/_/group/league)
+
+"C:\Users\natha\.local\geog510-test\NFL-logo.jpg"
